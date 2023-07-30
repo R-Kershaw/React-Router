@@ -24,6 +24,10 @@ body>div {
   justify-content: space-evenly;
 }
 
+#navbar a{
+  margin: 10px;
+}
+
 #main-section {
   flex-grow: 1;
 }
